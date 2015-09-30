@@ -1,5 +1,5 @@
-Blue Jeans Relay Mesh Example Server in Node.js
-===============================================
+Blue Jeans Relay Mesh Example Server in PHP
+===========================================
 
 Mesh is an HTTP interface that allows [Blue Jeans Relay](http://bluejeans.com/features/relay) to integrate with otherwise unsupported Endpoints.
 
